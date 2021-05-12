@@ -1,4 +1,4 @@
-<p align = "right"><img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=header&text=Taewoong Moon&fontSize=70&fontAlignY=60" /></p>
+<p align = "center"><img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=header&text=Taewoong Moon&fontSize=70&fontAlignY=60" /></p>
 <p align = "center">
 <h1 align = "center"> Tech Stack </h1>
 <h4 align = "center"> Techs that I've used at least once
