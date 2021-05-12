@@ -25,7 +25,7 @@ To be updated..
 
 </div>
 
-<h2 align ="center"> Visit My Blog </h2>
+<h3 align ="center"> Visit My Blog </h2>
 <p align="center">
 <a href="https://velog.io/@moony_moon">
     <img 
