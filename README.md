@@ -27,7 +27,7 @@ To be updated..
 
 <h2 align ="center"> Visit My Blog </h2>
 <p align="center">
-<a href="mailto:https://velog.io/@moony_moon">
+<a href="https://velog.io/@moony_moon">
     <img 
         src="https://img.shields.io/badge/Tech Blog-4BB749?style=flat-square&logo=V&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
